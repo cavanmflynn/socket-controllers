@@ -1,5 +1,5 @@
 {
-  "name": "socket-controllers",
+  "name": "socketio-controllers",
   "private": true,
   "version": "0.0.5",
   "description": "Use class-based controllers to handle websocket events",
